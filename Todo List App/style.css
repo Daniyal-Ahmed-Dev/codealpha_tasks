@@ -16,7 +16,7 @@ body{
   background: linear-gradient(135deg, #8aaee0, #628ecb);
 }
 ::selection{
-  color: #000;
+  color: #000000;
   background: #d5deef;
 }
 .wrapper{
